@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<UMLProfile profiletype="uml2">
+	<Documentation id="F0E709A7-9" name="Ext_C_Toolboxes" version="1.0" notes="Alias=Ext_C;Notes=Structural elements for class diagrams;"/>
+	<Content>
+		<Stereotypes>
+			<Stereotype name="Ext_C_Elements" notes="" cx="90" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="ToolboxPage"/>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="UML::Package" type="" description="" unit="" values="" default="Package"/>
+					<Tag name="UML::Class" type="" description="" unit="" values="" default="Class"/>
+					<Tag name="Ext_C::#ifdef" type="" description="" unit="" values="" default="CondClass"/>
+					<Tag name="UML::Interface" type="" description="" unit="" values="" default="Interface"/>
+					<Tag name="Ext_C::Funptr" type="" description="" unit="" values="" default="Funptr"/>
+					<Tag name="UML::DataType" type="" description="" unit="" values="" default="DataType"/>
+					<Tag name="UML::Enumeration" type="" description="" unit="" values="" default="Enumeration"/>
+					<Tag name="UML::Primitive" type="" description="" unit="" values="" default="Primitive"/>
+					<Tag name="UML::Table" type="" description="" unit="" values="" default="Table"/>
+					<Tag name="UML::Signal" type="" description="" unit="" values="" default="Signal"/>
+					<Tag name="Ext_C::extern" type="" description="" unit="" values="" default="extOperation"/>
+					<Tag name="Ext_C::funptrdef" type="" description="" unit="" values="" default="funptrdef"/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="Ext_C_Relationships" notes="" cx="90" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="ToolboxPage"/>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="Ext_C::import" type="" description="" unit="" values="" default="import"/>
+				</TaggedValues>
+			</Stereotype>
+		</Stereotypes>
+		<TaggedValueTypes/>
+	</Content>
+</UMLProfile>

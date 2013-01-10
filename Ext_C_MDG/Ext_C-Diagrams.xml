@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<UMLProfile profiletype="uml2">
+	<Documentation id="7516055D-B" name="Ext_C_Diagrams" version="1.0" notes="Ext_C_Diagrams"/>
+	<Content>
+		<Stereotypes>
+			<Stereotype name="ClassDiagram " notes="" cx="90" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="Diagram_Logical">
+						<Property name="alias" value="Extended C/C++ Class Diagram"/>
+						<Property name="diagramID" value="Ext_C_ClassDiagram"/>
+						<Property name="toolbox" value="Ext_C::Ext_C_Toolboxes"/>
+					</Apply>
+				</AppliesTo>
+			</Stereotype>
+		</Stereotypes>
+		<TaggedValueTypes/>
+	</Content>
+</UMLProfile>
